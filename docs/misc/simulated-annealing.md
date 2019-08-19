@@ -123,3 +123,4 @@ int main() {
 -    [「BZOJ 3680」吊打 XXX](https://www.lydsy.com/JudgeOnline/problem.php?id=3680) 
 -    [「JSOI 2016」炸弹攻击](https://www.lydsy.com/JudgeOnline/problem.php?id=4852) 
 -    [「HAOI 2006」均分数据](https://www.lydsy.com/JudgeOnline/problem.php?id=2428) 
+-    [「HDU  2899」Strange fuction](http://acm.hdu.edu.cn/showproblem.php?pid=2899) 
